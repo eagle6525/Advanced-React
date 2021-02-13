@@ -4,5 +4,10 @@
     "titleBar.inactiveForeground": "#000000CC",
     "titleBar.activeBackground": "#FFC600",
     "titleBar.inactiveBackground": "#FFC600CC"
-  }
+  },
+  "eslint.alwaysShowStatus": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "prettier.disableLanguages": ["javascript", "javascriptreact"]
 }
